@@ -1,0 +1,1 @@
+console.log("Server is running on local host 5000")
